@@ -1,0 +1,2 @@
+CiptaWeb adalah tugas sekolah yang bertemakan company website saya memilih web company agency, karena marak nya perusahaan digital yang bergerak di bidang digital marketing agency, website ini belum sepenuh nya sempurna di karenakan itu saya akan commit setiap ada perubahan dalam website ini. 
+untuk melihat tahapan awal website ini bisa klik di link berikut ini https://66fe0506537e8dead5f92a89--radiant-liger-e1cef6.netlify.app/
